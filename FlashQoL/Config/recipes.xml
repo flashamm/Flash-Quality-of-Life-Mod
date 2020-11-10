@@ -1,0 +1,17 @@
+<FlashQoL>
+	<!-- Append will just add the recipe to the end of the recipes file -->
+	<append xpath="/recipes">
+		<recipe name="ammoArrowStone" count="1">
+			<ingredient name="resourceRockSmall" count="1"/>
+			<ingredient name="resourceWood" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="1"/>
+		</recipe>
+
+		<recipe name="ammoBundleArrowStone" count="1" craft_time="240" tags="learnable">
+			<ingredient name="resourceRockSmall" count="80"/>
+			<ingredient name="resourceWood" count="80"/>
+			<ingredient name="resourceScrapPolymers" count="80"/>
+		</recipe>
+		
+	</append>
+</FlashQoL>

@@ -1,0 +1,113 @@
+Headlight 50 -> 200
+Sand 6000->20000
+Concrete mix 1000 -> 5000
+Oil 50 -> 200
+Cloth 250 -> 400
+Leather 250 -> 500
+Clay 6000 -> 20000
+Iron 6000 -> 20000
+Stone 6000 -> 20000
+Wood 6000 -> 20000
+Acid 100 -> 250
+Electrical parts 1000 -> 2500
+Forged Iron 1000 -> 2500
+Forged Steel 1000 -> 2500
+Glue 500 -> 1000
+Mechanical Parts 1000 -> 2500
+Fiber 6000 -> 10000
+Scrap Polymers 1000 -> 2500
+Iron Pipes  1000 -> 2500
+Spring 1000 -> 2500
+Beaker 10 -> 25
+Cement 1000 -> 2500
+Cobblestone 1000 -> 2500
+Grenade 25 -> 100
+Contact Grenade 25 -> 100
+Molotov 20 -> 100
+Pipe Bomb 20 -> 100
+Dynamite 10 -> 50
+Timed Charges 10 -> 50
+Iron Dart 500 -> 2500
+Iron Arrow 150 -> 300
+Crossbow bolt 150 -> 300
+Steel Arrow 150 -> 300
+Stone Arrow 150 -> 300
+Stone Crossbow Bolt 150 -> 300
+Feather 250 -> 1000
+Buckshot 1000 -> 2500
+Paper 500 -> 1500
+Bullet Tips 1000 -> 2500
+Gunpowder 1000 -> 2500
+Shotgun shell 150 -> 500
+Shotgun AP slug 150 -> 500
+Shotgun breaching slug 150 -> 500
+.44 magnum ammo 300 -> 1000
+AP .44 magnum ammo 300 -> 1000
+HP .44 magnum ammo 300 -> 1000
+Bullet casing 1000 -> 2500
+7.62mm Ammo 150 -> 500
+HP 7.62mm Ammo 150 -> 500
+AP 7.62mm Ammo 150 -> 500
+9mm Ammo 300 -> 1000
+HP 9mm Ammo 300 -> 1000
+AP 9mm Ammo 300 -> 1000
+First Aid Bandage 5 -> 25
+Bandage 10 -> 50
+Sewing Kit 20 -> 50
+Antibiotics 10 -> 50
+Med kit 5 -> 20
+Herbal Antibiotics 10 -> 50
+Jar of Honey 10 -> 50
+Painkillers 10 -> 25
+Splint 5 -> 10
+Plaster Cast 5 -> 10
+Vitamins 10 -> 25
+Beer 10 -> 25
+Coffee 10 -> 25
+Yucca Juice 10 -> 25
+Yucca Smoothie 10 -> 25
+Goldenrod Tea 10 -> 25
+Red Tea 10 -> 25
+Bacon and Eggs 10 -> 25
+Sham Chowder 10 -> 25
+Cornbread 10 -> 25
+Grilled Meat 10 -> 25
+Hobo Stew 10 -> 25
+Vegetable Stew 10 -> 25
+Pumpkin Bread 10 -> 25
+Pumpkin Cheesecake 10 -> 25
+Blueberry Pie 10 -> 25
+Shephards Pie 10 -> 25
+Meat Stew 10 -> 25
+Fish Tacos 10 -> 25
+Steak and Potato Meal 10 -> 25
+Boiled Water 10 -> 250
+Mega Crush 10 -> 25
+Empty Jars 125 -> 250
+Murky Water 125 -> 250
+Ear of Corn 125 -> 250
+Ear of Super Corn 125 -> 250
+Mushrooms 125 -> 250
+Potato 125 -> 250
+Pumpkin 125 -> 250
+Raw Meat 125 -> 250
+Grain Alcohol 10 -> 25
+Moldy Bread 10 -> 25
+Sham Sandwich 10 -> 25
+Aloe Cream 15 -> 50
+Blood Bag 15 -> 50
+Cann of *anything* 10 -> 25
+Pure Mineral Water 10 -> 50
+Nitrate 6000 -> 20000
+Coal 6000 -> 20000
+Oil Shale 6000 -> 20000
+Gasoline 10000 -> 50000
+
+
+
+Increase limits in forges 60000
+Box of *anything* 5 -> 10
+Stack of *anything* 5 -> 10
+Nail gun upgrade delay reduced from 0.73 to 0.3
+Created crafting recipe for Stone arrows to use polymers instead of feathers
+Created crafting recipe for Stone arrow bundle to use polymers instead of feathers

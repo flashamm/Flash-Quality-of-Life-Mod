@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Flash's QoL Mod" />
+		<Description value="Mod to increase stack sizes and make quality of life changes" />
+		<Author value="Flash" />
+		<Version value="A19" />
+		<Website value="twitch.tv/flash_am" />
+	</ModInfo>
+</xml>
